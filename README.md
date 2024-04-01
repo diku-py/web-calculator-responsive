@@ -10,14 +10,25 @@ It can do various basic calculations and also bracket calculations and a beautif
 
 Hope you like it!
 
-## Wanna see or modify?
+## Screenshots
+
+![Screenshot from 2024-04-01 21-34-49](https://github.com/diku-py/web-calculator-responsive-/assets/165680478/7f28aa3e-f08b-4719-9a59-6bbdb9d01eca)
+
+![Screenshot from 2024-04-01 21-35-06](https://github.com/diku-py/web-calculator-responsive-/assets/165680478/2b490867-0195-40a5-80b1-eecfe91ffb09)
+
+![Screenshot from 2024-04-01 21-35-14](https://github.com/diku-py/web-calculator-responsive-/assets/165680478/c0fa1510-5b0c-4682-b066-a79be5b8d45f)
+![Screenshot from 2024-04-01 21-35-19](https://github.com/diku-py/web-calculator-responsive-/assets/165680478/af998b27-22de-4ee4-ae19-dcf78ce426e1)
+
+
+
+
+## Wanna modify?
 
 You can test it out just by downloading or clone it using `git clone https://github.com/diku-py/web-calculator-responsive-.git`
 
 Make sure git is installed on your respective OS!
 
 Have fun!
-
 
 ## Send some Love 💗
 
