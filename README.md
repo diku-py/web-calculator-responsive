@@ -24,7 +24,7 @@ Hope you like it!
 
 ## Wanna modify?
 
-You can test it out just by downloading or clone it using `git clone https://github.com/diku-py/web-calculator-responsive-.git`
+You can test it out just by downloading or clone it using `git clone https://github.com/diku-py/web-calculator-responsive.git`
 
 Make sure git is installed on your respective OS!
 
